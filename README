@@ -3,10 +3,22 @@ ZeDoT (Zend Framework - Doctrine - Twig)
 This project started with the need to have some sort of integration between
 Zend Framework, Doctrine and Twig.
 
-There are lots out there... but as this is an experiment of the whole github
+There are lots out there... but as this is an experiment of the whole GitHub
 and social development thing, it's always worthy.
 
 Have fun and as always... if you don't like it, fork it!
+
+Organization
+
+There are two main folders, the project and the vendors.
+
+The project is the skeleton application and is where the user of this will
+develop the application.
+
+Vendors is where all external repositories and / or libraries will reside.
+
+In the root, there will be in the future a script to automate all externals
+that don't have a repository, if needed be.
 
 Cheers,
 Luis Ferro
