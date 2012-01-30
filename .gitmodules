@@ -7,3 +7,9 @@
 [submodule "vendors/twig"]
 	path = vendors/twig
 	url = https://github.com/fabpot/Twig.git
+[submodule "vendors/phpunit"]
+	path = vendors/phpunit
+	url = https://github.com/sebastianbergmann/phpunit.git
+[submodule "vendors/ano_zftwig"]
+	path = vendors/ano_zftwig
+	url = https://github.com/benjamindulau/Ano_ZFTwig.git
